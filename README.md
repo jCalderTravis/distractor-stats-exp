@@ -6,4 +6,4 @@ Most code is written for Matlab and replies on [Psychtoolbox](http://psychtoolbo
 
 Contact: Joshua Calder-Travis, j.calder.travis@gmail.com
 
-_Those sections of the code used in associated paper have been carefully checked. Nevertheless, no guarantee or warranty is provided for any part of the code._
+_Those sections of the code used in the associated paper have been carefully checked. Nevertheless, no guarantee or warranty is provided for any part of the code._

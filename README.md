@@ -4,6 +4,6 @@ This repository contains code for the presentation of the stimuli used in the pa
 
 Most code is written for Matlab and relies on [Psychtoolbox](http://psychtoolbox.org/) and the [Matlab Circular Statistics Toolbox](https://github.com/circstat/circstat-matlab).
 
-Contact: Joshua Calder-Travis, j.calder.travis@gmail.com
+Author: Joshua Calder-Travis, j.calder.travis@gmail.com
 
 _Those sections of the code used in the associated paper have been carefully checked. Nevertheless, no guarantee or warranty is provided for any part of the code._
